@@ -1,5 +1,5 @@
 """
-This program was orignially intended to output all single syllable words that meet the vowel requirements, but
+This program was originally intended to output all single syllable words that meet the vowel requirements, but
 it only outputs words ending in vowels, which means that some of the vowels in the vowel spiral sequence are
 not included, such as the Arpabet "IH" as in the vowel in "bit", because there are no English words that end in
 that sound, much less single syllable ones.
